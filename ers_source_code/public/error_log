@@ -1,0 +1,198 @@
+[07-Feb-2016 07:50:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:50:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:56:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:56:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:56:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:56:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:56:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:56:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:56:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:56:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:57:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:57:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:57:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:57:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:57:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:57:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:57:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:57:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ers'@'localhost' (using password: YES) in /home/ashflowers/public_html/ers/core/config.php on line 15
+[07-Feb-2016 07:58:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ashflowers/public_html/ers/core/config.php on line 15
+[11-Feb-2016 13:05:19 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:05:25 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:05:32 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:05:37 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:05:55 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:06:18 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:06:28 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:06:31 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:06:34 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:06:44 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:06:46 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:06:52 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:07:07 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:07:58 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:07:59 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:00 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:00 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:00 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:00 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:00 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:00 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:00 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:00 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:01 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:02 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:08:03 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:25:26 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Feb-2016 13:47:43 UTC] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/ashflowers/public_html/ers/public/login_registration.php on line 82
+[11-Mar-2016 15:15:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/googleth/public_html/ers/public/recharge.php on line 164
+[11-Mar-2016 15:15:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/googleth/public_html/ers/public/recharge.php on line 166
+[11-Mar-2016 15:15:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/googleth/public_html/ers/public/recharge.php on line 164
+[11-Mar-2016 15:15:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/googleth/public_html/ers/public/recharge.php on line 166
+[11-Mar-2016 15:16:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/googleth/public_html/ers/public/recharge.php on line 164
+[11-Mar-2016 15:16:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/googleth/public_html/ers/public/recharge.php on line 164
+[11-Mar-2016 15:16:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/googleth/public_html/ers/public/recharge.php on line 164
+[11-Mar-2016 15:20:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/googleth/public_html/ers/public/recharge.php on line 166
+[11-Mar-2016 15:20:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/googleth/public_html/ers/public/recharge.php on line 166
+[11-Mar-2016 15:20:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/googleth/public_html/ers/public/recharge.php on line 166
+[11-Mar-2016 15:20:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/googleth/public_html/ers/public/recharge.php on line 166
+[14-Mar-2016 19:27:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 2
+[14-Mar-2016 19:32:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 2
+[14-Mar-2016 19:33:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 2
+[14-Mar-2016 19:34:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 2
+[14-Mar-2016 19:36:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 3
+[14-Mar-2016 19:37:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 3
+[14-Mar-2016 19:43:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 3
+[14-Mar-2016 19:43:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 3
+[14-Mar-2016 19:45:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 3
+[14-Mar-2016 19:45:10 UTC] PHP Warning:  require(../../config.php): failed to open stream: No such file or directory in /home/googleth/public_html/ers/core/templates/fornt/header.php on line 1
+[14-Mar-2016 19:45:10 UTC] PHP Warning:  require(../../config.php): failed to open stream: No such file or directory in /home/googleth/public_html/ers/core/templates/fornt/header.php on line 1
+[14-Mar-2016 19:45:10 UTC] PHP Fatal error:  require(): Failed opening required '../../config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/googleth/public_html/ers/core/templates/fornt/header.php on line 1
+[14-Mar-2016 19:45:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 3
+[14-Mar-2016 19:46:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 2
+[14-Mar-2016 19:47:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 3
+[14-Mar-2016 19:50:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/googleth/public_html/ers/public/index.php:2) in /home/googleth/public_html/ers/core/config.php on line 3
+[15-Mar-2016 10:13:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/googleth/public_html/ers/core/templates/fornt/header.php on line 130
+[15-Mar-2016 10:33:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:33:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:33:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:33:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:33:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:33:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:44:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:44:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:44:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:44:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:44:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:44:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:45:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:45:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:45:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:45:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:45:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[15-Mar-2016 10:45:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/googleth/public_html/ers/core/process/functions.php on line 7
+[16-Mar-2016 09:18:41 UTC] PHP Warning:  require(TEMPLATE_FORNTDSheader.php): failed to open stream: No such file or directory in /home/googleth/public_html/ers/public/index.php on line 1
+[16-Mar-2016 09:18:41 UTC] PHP Warning:  require(TEMPLATE_FORNTDSheader.php): failed to open stream: No such file or directory in /home/googleth/public_html/ers/public/index.php on line 1
+[16-Mar-2016 09:18:41 UTC] PHP Fatal error:  require(): Failed opening required 'TEMPLATE_FORNTDSheader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/googleth/public_html/ers/public/index.php on line 1
+[16-Mar-2016 09:18:52 UTC] PHP Warning:  require(TEMPLATE_FORNTDSheader.php): failed to open stream: No such file or directory in /home/googleth/public_html/ers/public/index.php on line 1
+[16-Mar-2016 09:18:52 UTC] PHP Warning:  require(TEMPLATE_FORNTDSheader.php): failed to open stream: No such file or directory in /home/googleth/public_html/ers/public/index.php on line 1
+[16-Mar-2016 09:18:52 UTC] PHP Fatal error:  require(): Failed opening required 'TEMPLATE_FORNTDSheader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/googleth/public_html/ers/public/index.php on line 1
+[16-Mar-2016 09:20:25 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[16-Mar-2016 09:53:55 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[16-Mar-2016 13:59:26 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[16-Mar-2016 16:54:47 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[16-Mar-2016 16:54:55 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[16-Mar-2016 16:55:24 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[16-Mar-2016 16:55:28 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[16-Mar-2016 16:56:53 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[18-Mar-2016 15:10:15 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[18-Mar-2016 15:10:21 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[18-Mar-2016 15:13:30 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[18-Mar-2016 15:16:01 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[18-Mar-2016 15:24:11 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[18-Mar-2016 15:25:07 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[18-Mar-2016 15:25:09 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[19-Mar-2016 06:29:29 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[19-Mar-2016 06:29:41 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:3) in /home/googleth/public_html/ers/core/process/functions.php on line 9
+[19-Mar-2016 06:33:59 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:2) in /home/googleth/public_html/ers/core/process/functions.php on line 8
+[19-Mar-2016 06:38:14 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:2) in /home/googleth/public_html/ers/core/process/functions.php on line 8
+[19-Mar-2016 06:38:23 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:2) in /home/googleth/public_html/ers/core/process/functions.php on line 8
+[19-Mar-2016 06:39:18 UTC] PHP Fatal error:  Cannot redeclare stringClean() (previously declared in /home/googleth/public_html/ers/core/process/functions.php:2) in /home/googleth/public_html/ers/core/process/functions.php on line 8
+[27-Mar-2016 08:58:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'googleth_rk'@'localhost' to database 'googleaaath_ers' in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 08:58:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 08:59:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'googleth_rk'@'localhost' to database 'googleaaath_ers' in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 08:59:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'googleth_rk'@'localhost' to database 'googleaaath_ers' in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 08:59:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'googleth_rk'@'localhost' to database 'googleaaath_ers' in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 08:59:30 UTC] PHP Fatal error:  Call to undefined function mysqli_errorn() in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 09:00:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'googleth_rk'@'localhost' (using password: YES) in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 09:00:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 09:00:29 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 09:00:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 09:00:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 09:00:42 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 09:00:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 09:00:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:20:35 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:20:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:20:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:21:10 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:21:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:21:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:45:19 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:45:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 17:45:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 18:58:59 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 18:58:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 18:58:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 19:00:04 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 19:00:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 19:00:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/googleth/public_html/ers/core/config.php on line 15
+[27-Mar-2016 20:13:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/googleth/public_html/ers/public/index.php on line 133
